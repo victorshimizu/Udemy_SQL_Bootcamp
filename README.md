@@ -32,18 +32,3 @@ This is course that put's you in control, having you set up and restore database
 I've spent years as an instructor both online and in-person at Fortune 500 companies, and this course is built to combine the best of both worlds, allowing you to learn at your own pace through an interactive environment. You will start with the basics and soon find yourself working with advanced commands, dealing with timestamp data and variable character information like a seasoned professional.
 
 SQL is one of the most in demand skills for business analysts, data scientists, and anyone who finds themselves working with data! Upgrade your skill set quickly and add SQL to your resume by joining today!
-
-I'll see you inside the course!
-
-Check out the free preview videos for more information!
-
-O que você aprenderá
-Use SQL to query a database
-Use SQL to perform data analysis
-Be comfortable putting SQL and PostgreSQL on their resume
-Learn to perform GROUP BY statements
-Replicate real-world situations and query reports
-Há algum requisito ou pré-requisito para o curso?
-No prior technical experience is required! All you need a computer!
-Para quem é este curso:
-Anyone interested in learning more about SQL, PostgreSQL, or basic data analysis!
